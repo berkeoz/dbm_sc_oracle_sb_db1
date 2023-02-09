@@ -1,0 +1,3 @@
+CREATE TABLE "TEST5"
+   (	"COL1" NUMBER(*,0)
+   ) ;
